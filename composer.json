@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-           "Cn\\Cn": "src" 
+           "Cn\\Cn\\": "src" 
      } 
    }   
 }
