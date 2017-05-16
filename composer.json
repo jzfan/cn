@@ -1,3 +1,15 @@
 {
-    "require": {}
+    "name": "jzfan/cn",
+    "description": "laravel cn lang set for carbon/ validate / faker",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jzfan",
+            "email": "jzmcc@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php": "7.0+"
+    }
 }
